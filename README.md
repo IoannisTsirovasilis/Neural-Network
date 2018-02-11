@@ -8,9 +8,11 @@ The accuracy of the network may reach 92% depending on many variables.
 Yet, there is plenty room for improvement. Below there is an example of the 
 network's score.
 
-Epoch: 98
-9207 / 10000
-Epoch: 99
-9233 / 10000
-Epoch: 100
-9255 / 10000
+Epoch: 98                                      
+9207 / 10000                                             
+
+Epoch: 99                                       
+9233 / 10000                                 
+
+Epoch: 100                                       
+9255 / 10000                              
