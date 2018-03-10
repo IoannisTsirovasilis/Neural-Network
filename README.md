@@ -4,6 +4,8 @@ This project includes 7 files. Five of them implement the neural network,
 one is for testing and the last is a MnistReader class I provided
 myself from jeffgriffith/mnist-reader. Thumbs up!
 
+It is worth noting that no special libraries were used. Just plain Java code!
+
 The accuracy of the network may reach 92% depending on many variables.
 Yet, there is plenty room for improvement. Below there is an example of the 
 network's score.
